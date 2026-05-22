@@ -78,7 +78,3 @@ If you look inside `app.py`, the most important part is the `get_ai_response()` 
 ---
 
 *Happy Coding! Keep experimenting and building.*
-
-```
-
-```
